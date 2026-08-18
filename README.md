@@ -1,5 +1,8 @@
 # ✈️ TripPilot AI
 
+## 📸 Preview
+![alt text](image.png)
+
 TripPilot AI is an AI-powered travel planning application that researches destinations and creates personalized multi-day itineraries based on a traveler's budget, travel style, destination, and trip duration.
 
 ## 🚀 Features
